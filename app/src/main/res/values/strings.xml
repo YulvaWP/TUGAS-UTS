@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tugas UTS</string>
+    <string name="move_activity">Profil</string>
+    <string name="move_with_data">Akun Instagram</string>
+    <string name="dial_number">camera</string>
+</resources>
